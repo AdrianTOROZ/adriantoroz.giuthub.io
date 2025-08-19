@@ -1,0 +1,4 @@
+reference of product:
+
+Ventilator reference: XYZ-2939
+Manufacturer reference: FakeCompany123
